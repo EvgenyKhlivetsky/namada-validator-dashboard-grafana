@@ -1,6 +1,6 @@
 # Namada validator dashboard for Grafana
 <img src="Example_1.png" alt="example1" width="400"/>
-<img src="Example_2.png" alt="example2" width="400"/>
+<img src="Val_stats.png" alt="val_stats" width="400"/>
 
 ## Importing the dashboard
 1. Copy contents of the `dashbaord/namada-validator-dashboard.json` file from this repository.
