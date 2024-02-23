@@ -8,3 +8,6 @@
 3. Click on `Import` and select the `dashboard/namada-validator-dashboard.json` file or paste contents of it.
 
 <img src="Guide.png" alt="example2" />
+
+## Use exporter
+Check out the [Namada validator exporter](https://github.com/EvgenyKhlivetsky/namada-exporter)
