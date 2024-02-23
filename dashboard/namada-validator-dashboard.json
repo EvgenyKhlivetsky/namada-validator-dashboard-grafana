@@ -787,7 +787,7 @@
           "refId": "A"
         }
       ],
-      "title": "Latest block from validator RPC",
+      "title": "Active set rank",
       "type": "stat"
     },
     {
